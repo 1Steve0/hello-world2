@@ -6,9 +6,6 @@ Not sure the text is relevant. I have copied a template to see how this might wo
 
 Interesting...
 
-This API will be utilised by a React frontend. 
-
-![Mockup of Forum Messages](resources/assets/img/mockup-forum-messages.png)
 
 ### Test Guidelines
 
