@@ -1,10 +1,10 @@
-# REX Backend Test
+# Steves First real Github Document
 
 ## Overview 
 
-The Good Forum (tm) is an API application built based on [Laravel 5.6](https://laravel.com/).
-It was hastily built by some Junior developers, and it needs a little bit of love.
-We would like you to help improve this application by completing the tasks outlined below.
+Not sure the text is relevant. I have copied a template to see how this might work.
+
+Interesting...
 
 This API will be utilised by a React frontend. 
 
